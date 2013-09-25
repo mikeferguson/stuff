@@ -7,6 +7,10 @@ Delete branch on github:
 
         git push -u origin :branch_name
 
+Interactively squash X commits:
+
+        git rebase -i HEAD~X
+
 ### hub
 Convert issue + branch into pull request:
 
