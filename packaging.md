@@ -54,3 +54,7 @@ Useful ENV variables:
 
         export QUILT_REFRESH_ARGS="-p ab --no-timestamps --no-index" # makes a cleaner patch
 
+### apt
+Easily upgrade a number of packages:
+
+        sudo apt-get --only-upgrade install ros-hydro-*
