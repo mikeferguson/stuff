@@ -9,3 +9,9 @@
 ### wireshark
 
         udp.dstport == 1000 && frame.time_relative < 1.0
+        
+### ROS on Mac
+
+        had to link freetype2 includes to /usr/local/include/freetype
+        had to install sphinx via pip (for pcl)
+        had to install XQuartz manually via installer
