@@ -1,3 +1,8 @@
+### Ubuntu 12.04 install (no unity)
+
+        install server version (no gui)
+        sudo apt-get install lightdm gnome-session gnome-panel gnome-core light-themes
+
 ### projector notes
 
  * Need to install new versions of ffmpeg (http://ppa.launchpad.net/jon-severinsson/ffmpeg/ubuntu)
