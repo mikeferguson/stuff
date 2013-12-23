@@ -15,8 +15,16 @@
 
         udp.dstport == 1000 && frame.time_relative < 1.0
         
-### ROS on Mac
+### ROS on Mac OS X 10.9
+
+References:
+ * http://wiki.ros.org/hydro/Installation/OSX/Homebrew/Source
+ * http://answers.ros.org/question/94771/building-ros-on-osx-109-solution/
 
         had to link freetype2 includes to /usr/local/include/freetype
         had to install sphinx via pip (for pcl)
         had to install XQuartz manually via installer
+        manually installed SIP from http://www.riverbankcomputing.co.uk/software/sip/download
+        
+Notes:
+ * needed to manually install SIP since we aren't using python from homebrew and pip/easy_install both seem to fail.
