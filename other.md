@@ -1,7 +1,7 @@
 ### Ubuntu 12.04 install (no unity)
 
         install server version (no gui)
-        sudo apt-get install lightdm gnome-session gnome-panel gnome-core light-themes
+        sudo apt-get install lightdm gnome-session gnome-session gnome-panel gnome-core light-themes
 
 ### projector notes
 
