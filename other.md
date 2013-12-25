@@ -28,3 +28,8 @@ References:
         
 Notes:
  * needed to manually install SIP since we aren't using python from homebrew and pip/easy_install both seem to fail.
+
+Patches applied:
+ * http://answers.ros.org/question/112856/installing-pyqwt-on-mavericks/
+ * http://answers.ros.org/question/112866/error-compiling-eigen_msg-on-osx-109/
+ * https://github.com/kyonifer/ros-macports/commit/96617b4d7292558bdbe646953302ba6263d849c4 (added the #include <ios>)
