@@ -54,6 +54,10 @@ Useful ENV variables:
 
         export QUILT_REFRESH_ARGS="-p ab --no-timestamps --no-index" # makes a cleaner patch
 
+### custom ubuntu kernels
+
+Edit debian/linux-image-X/boot/config-X
+
 ### apt
 Easily upgrade a number of packages:
 
