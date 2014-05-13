@@ -11,6 +11,13 @@ Interactively squash X commits:
 
         git rebase -i HEAD~X
 
+Squash a ton of stuff:
+
+        git reset --hard HEAD~42
+        # HEAD@{1} is where the branch was just before the previous command.
+        git merge --squash HEAD@{1}
+        git commit
+
 ### hub
 Convert issue + branch into pull request:
 
