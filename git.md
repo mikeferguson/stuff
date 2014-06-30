@@ -18,6 +18,10 @@ Squash a ton of stuff:
         git merge --squash HEAD@{1}
         git commit
 
+Remove directory:
+
+        git filter-branch --tree-filter 'rm -rf folder-name' --prune-empty -f HEAD 
+
 ### hub
 Convert issue + branch into pull request:
 
