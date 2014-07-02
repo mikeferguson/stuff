@@ -38,3 +38,8 @@ Patches applied:
 ### Openni2
 
 Setting to verbose logging: edit /etc/openni2/Openni.ini to set verbosity to 0, be sure to set LogToConsole or LogToFile to 1 to get outputs.
+
+### SSD Life Info
+
+    sudo apt-get install smartmontools
+    sudo smartctl -a /dev/sda | grep Media_Wearout_Indicator
