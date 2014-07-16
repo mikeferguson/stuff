@@ -1,7 +1,7 @@
 Bullet References
 
  * [Tutorial](https://developer.tizen.org/documentation/articles/working-bullet-physics-library)
- * [Featherstone solvers](http://www.bulletphysics.org/Bullet/phpBB3/viewtopic.php?p=&f=4&t=148)
+ * [Featherstone solvers (Bullet Forum)](http://www.bulletphysics.org/Bullet/phpBB3/viewtopic.php?p=&f=4&t=148)
 
 Building
 
