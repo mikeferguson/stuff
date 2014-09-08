@@ -15,7 +15,9 @@ Using a Cinergy TStick+ (0ccd:00d7) with Elonics E4000 (RTL2832U) chipset.
 
 Make sure everything is working: ``rtl_test -t``
 
-Tuning a radio statio (ex: KQED 88.5 FM): ``rtl_fm -f 88.5e6 -M wbfm -s 200000 -r 48000 - | aplay -r 48k -f S16_LE``
+Tuning a radio statio (ex: KQED 88.5 FM):
+
+    rtl_fm -f 88.5e6 -M wbfm -s 200000 -r 48000 - | aplay -r 48k -f S16_LE
 
 ## Other software
 
