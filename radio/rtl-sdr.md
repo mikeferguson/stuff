@@ -23,6 +23,11 @@ Tuning a radio statio (ex: KQED 88.5 FM):
 
     sudo apt-get install gnuradio-dev gqrx-sdr
 
+## Connectors
+
+ * TStick is PAL
+ * 820T uses MCX
+
 ## Links
 
  * http://sdr.osmocom.org/trac/wiki/rtl-sdr
