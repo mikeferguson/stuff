@@ -14,6 +14,15 @@
 References:
  * [Ticket discussing ogre 1.7/8/9 issues and mesh loading among others](https://github.com/ros-visualization/rviz/issues/782)
 
+Installing Moveit (in progress):
+ * source ~/ros/indigo_ws/install_isolated/setup.bash
+ * cd ~/ros/indigo_moveit/
+ * rosinstall_generator moveit_ros --deps --exclude RPP > moveit.rosinstall
+ * wstool init -j8 src moveit.rosinstall
+ * rosdep install --from-paths src --ignore-src --rosdistro indigo
+ * rosdeps to fix: libssl-dev, python-pymongo, glut (looks like I had to install freeglut for moveit_ros_perception to compile (gl_renderer.cpp in mesh_filter))
+ * Now stuck on occupancy map monitor linking...
+
 ## Hydro on 10.9
 
 Installed in December of 2013
