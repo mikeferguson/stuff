@@ -20,7 +20,6 @@ Installing Moveit (in progress):
  * rosinstall_generator moveit_ros --deps --exclude RPP > moveit.rosinstall
  * wstool init -j8 src moveit.rosinstall
  * rosdep install --from-paths src --ignore-src --rosdistro indigo
- * rosdeps to fix: glut (looks like I had to install freeglut for moveit_ros_perception to compile (gl_renderer.cpp in mesh_filter))
  * compiled, not yet entirely working
 
 ## Hydro on 10.9
