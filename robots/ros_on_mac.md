@@ -13,6 +13,7 @@
 
 References:
  * [Ticket discussing ogre 1.7/8/9 issues and mesh loading among others](https://github.com/ros-visualization/rviz/issues/782)
+ * [Main ticket tracking indigo on OSX](https://github.com/ros/rosdistro/issues/4597)
 
 Installing Moveit (in progress):
  * source ~/ros/indigo_ws/install_isolated/setup.bash
