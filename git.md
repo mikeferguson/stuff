@@ -1,4 +1,8 @@
 ### git
+Rebase current branch on top of master, while preserving commit timestamp:
+
+        git rebase master --committer-date-is-author-date
+
 Rename branch
 
         git branch -m old_name new_name
