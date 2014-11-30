@@ -12,3 +12,5 @@ include_directories(${GLUT_INCLUDE_DIR} ${BULLET_INCLUDE_DIRS})
 
 add_subdirectory(Chapter1.2)
 add_subdirectory(Chapter2.1)
+add_subdirectory(Chapter2.2)
+add_subdirectory(Chapter2.3)
