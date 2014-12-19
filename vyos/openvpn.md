@@ -1,3 +1,4 @@
+```
 /*
 * Generating Keys
 * FROM http://www.v12n.com/mediawiki/index.php/Vyatta_How_To#OpenVPN_RoadWarrior
@@ -45,3 +46,4 @@ root@vyattaHome:/etc/openvpn# ls keys/
 02.pem	dh1024.pem  index.txt.attr.old	client.csr  serial.old      V1.key
 ca.crt	index.txt   index.txt.old   	client.key  V1.crt
 root@vyattaHome:/etc/openvpn#
+```
