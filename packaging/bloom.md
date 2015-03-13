@@ -13,3 +13,7 @@ http://wiki.ros.org/bloom/Tutorials/ReleaseThirdParty
  * git push --all
  * git-bloom-release jade (again, this is the real release)
  * bloom-release -r jade -t jade sbpl --pull-request-only
+
+# Avoiding recreating upstream
+
+Edit tracks.yaml to remove bloom-export-upstream and git-bloom-import-upstream commands.
