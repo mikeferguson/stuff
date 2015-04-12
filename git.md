@@ -26,6 +26,11 @@ Remove directory:
 
         git filter-branch --tree-filter 'rm -rf folder-name' --prune-empty -f HEAD 
 
+Pull a directory out into its own repository:
+
+        git remove remove origin
+        git filter-branch --prune-empty --subdirectory-filter DIRECTORY master
+
 ### hub
 Convert issue + branch into pull request:
 
