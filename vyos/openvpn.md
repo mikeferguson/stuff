@@ -46,4 +46,11 @@ root@vyattaHome:/etc/openvpn# ls keys/
 02.pem	dh1024.pem  index.txt.attr.old	client.csr  serial.old      V1.key
 ca.crt	index.txt   index.txt.old   	client.key  V1.crt
 root@vyattaHome:/etc/openvpn#
+
+9. Setting up to revoke keys:
+
+set interfaces openvpn vtun0 openvpn-option “--client-config-dir /config/auth/ccd”
+set interfaces openvpn vtun0 openvpn-option “--ccd-exclusive”
+
+And touch a file with same name as key in the ccd directory
 ```
