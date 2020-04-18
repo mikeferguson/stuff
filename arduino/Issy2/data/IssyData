@@ -1,0 +1,153 @@
+***********************************************************
+ISSY 2 STANCE STATISTICS
+
+***********************************************************
+FOR MECHWARS CONFIGURATION
+125 Tibia, 58mm Femur (A 64mm Femur changes nothing)                                          
+
+Z height at 50, Y=80, X=70 -- Max Stride = 10mm
+                                                                         
+        o o o o o o o o o                                                       
+        o o o o o o o o o o o                                                   
+        o o o o o o o o o o o o o                                               
+          o o o o o o o o o o o o o                                             
+          o o o o o o o o o o o o o o o                                         
+          o o o o o o o o o o o o o o o o                                       
+          o o o o o o o o o o o o o o o o                                       
+                      o o o o o o o o o o o                                     
+                          o o o o o o o o o o                                   
+                            o o o o o o o o o                                   
+                              X o o o o o o o o                                 
+                                o o o o o o o o                                 
+                                  o o o o o o o o                               
+                                  o o o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+              o                     o o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+                                  o o o o o o o o                               
+
+Z height at 55, Y=80, X=70 -- Max Stride = 30mm
+                                                                 
+        o o o o o o o o                                                         
+        o o o o o o o o o o o                                                   
+        o o o o o o o o o o o o o                                               
+          o o o o o o o o o o o o o                                             
+          o o o o o o o o o o o o o o                                           
+          o o o o o o o o o o o o o o o                                         
+          o o o o o o o o o o o o o o o o                                       
+          o o o o o o o o o o o o o o o o o                                     
+                      o o o o o o o o o o o o                                   
+                          o o | o o o o o o o                                   
+                            o X o o o o o o o o                                 
+                              | o o o o o o o o                                 
+                                o o o o o o o o                                 
+                                o o o o o o o o o                               
+                                  o o o o o o o o                               
+                                  o o o o o o o o                               
+              o                   o o o o o o o o                               
+              o o                 o o o o o o o o                               
+                                  o o o o o o o o                               
+                                  o o o o o o o o                               
+                                  o o o o o o o o                               
+                                o o o o o o o o o                               
+
+Z height at 60, Y=80, X=70 -- Max Stride = 70mm
+                                                                    
+        o o o o o o o                                                           
+        o o o o o o o o o o                                                     
+        o o o o o o o o o o o o                                                 
+          o o o o o o o o o o o o o                                             
+          o o o o o o o o o o o o o o                                           
+          o o o o o o o o o o o o o o o                                         
+          o o o o o o o o o o o o o o o o                                       
+          o o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+                      o o o o | o o o o o o o                                   
+                          o o X o o o o o o o                                   
+                          o o | o o o o o o o o                                 
+                              | o o o o o o o o                                 
+                              | o o o o o o o o                                 
+                                o o o o o o o o o                               
+              o o               o o o o o o o o o                               
+              o o o             o o o o o o o o o                               
+              o o o             o o o o o o o o o                               
+                o o             o o o o o o o o o                               
+                                o o o o o o o o o                               
+                                o o o o o o o o o                               
+                              o o o o o o o o o                                 
+
+Z height at 70, Y=80, X=70 -- Max Stride = 150mm
+                                                                                     
+        o o o o o o o o o                                                       
+        o o o o o o o o o o o                                                   
+          o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+          o o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o X o o o o o o o                                   
+            o o o o o o o o o | o o o o o o o                                   
+            o o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+                o o o o o o o o o o o o o o o o                                 
+                  o o o o o o o o o o o o o o o                                 
+                  o o o o o o o o o o o o o o o                                 
+                    o o o o o o o o o o o o o o                                 
+
+Z height at 80, Y=80, X=70 -- Max Stride = 130mm
+                                                                                    
+            o o o                                                               
+        o o o o o o o o o                                                       
+          o o o o o o o o o o                                                   
+          o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+            o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o X o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o o o o o o o o o o                                 
+                o o o o o o o o o o o o o o o o                                 
+                  o o o o o o o o o o o o o o                                   
+                  o o o o o o o o o o o o o o                                   
+                    o o o o o o o o o o o o o                                   
+
+Z height at 90, Y=80, X=70 -- Max Stride = 130mm
+                                                                       
+        o o o o o o o                                                           
+          o o o o o o o o o                                                     
+          o o o o o o o o o o |                                                 
+          o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+            o o o o o o o o o | o o o o                                         
+            o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o X o o o o o                                       
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o o o o o o o o o                                   
+                o o o o o o o o o o o o o o o                                   
+                  o o o o o o o o o o o o o o                                   
+                  o o o o o o o o o o o o o o                                   
+                    o o o o o o o o o o o o   
+                                 

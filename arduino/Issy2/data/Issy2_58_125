@@ -1,0 +1,353 @@
+Z height at 40                                                      
+                                                                                
+            o o o                                                               
+        o o o o o o o o o o                                                     
+        o o o o o o o o o o o |                                                 
+        o o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+          o o o o o o o o o o | o o o o o                                       
+                        o o o | o o o o o o                                     
+                            o | o o o o o o o                                   
+                              | o o o o o o o                                   
+                                o o o o o o o o                                 
+                              X   o o o o o o o                                 
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+                                      o o o o o o                               
+                                      o o o o o o                               
+                                      o o o o o o                               
+                                      o o o o o o o                             
+                                      o o o o o o o                             
+                                      o o o o o o o                             
+                                      o o o o o o                               
+                                      o o o o o o                               
+                                      o o o o o o                               
+
+Area Coverage =  0.0437777777778
+Length of step available =  32 mm
+Optimal x =  125
+Z height at 45                                                             
+                                                                                
+        o o o o o o o o o                                                       
+        o o o o o o o o o o o |                                                 
+        o o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+          o o o o o o o o o o | o o o o o                                       
+                    o o o o o | o o o o o o                                     
+                          o o | o o o o o o                                     
+                            o | o o o o o o o                                   
+                              | o o o o o o o o                                 
+                              X o o o o o o o o                                 
+                                  o o o o o o o                                 
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+                                      o o o o o o                               
+                                      o o o o o o                               
+              o                       o o o o o o                               
+                                      o o o o o o                               
+                                      o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+
+Area Coverage =  0.0442222222222
+Length of step available =  36 mm
+Optimal x =  120
+Z height at 50                                           
+                                                                                
+        o o o o o o o o o                                                       
+        o o o o o o o o o o o                                                   
+        o o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o o                                         
+          o o o o o o o o o o | o o o o o                                       
+          o o o o o o o o o o | o o o o o                                       
+                      o o o o | o o o o o o                                     
+                          o o | o o o o o o o                                   
+                            o | o o o o o o o                                   
+                              X o o o o o o o o                                 
+                                o o o o o o o o                                 
+                                  o o o o o o o o                               
+                                  o o o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+              o                     o o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+                                    o o o o o o o                               
+                                  o o o o o o o o                               
+
+Area Coverage =  0.0473333333333
+Length of step available =  32 mm
+Optimal x =  115
+Z height at 55                                                      
+                                                                                
+        o o o o o o o o                                                         
+        o o o o o o o o o o o                                                   
+        o o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+          o o o o o o o o o o | o o o o o                                       
+          o o o o o o o o o o | o o o o o o                                     
+                      o o o o | o o o o o o o                                   
+                          o o | o o o o o o o                                   
+                            o X o o o o o o o o                                 
+                              | o o o o o o o o                                 
+                                o o o o o o o o                                 
+                                o o o o o o o o o                               
+                                  o o o o o o o o                               
+                                  o o o o o o o o                               
+              o                   o o o o o o o o                               
+              o o                 o o o o o o o o                               
+                                  o o o o o o o o                               
+                                  o o o o o o o o                               
+                                  o o o o o o o o                               
+                                o o o o o o o o o                               
+
+Area Coverage =  0.0515555555556
+Length of step available =  36 mm
+Optimal x =  108
+Z height at 60                                                   
+                                                                                
+        o o o o o o o                                                           
+        o o o o o o o o o o                                                     
+        o o o o o o o o o o o |                                                 
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+          o o o o o o o o o o | o o o o o                                       
+          o o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+                      o o o o | o o o o o o o                                   
+                          o o X o o o o o o o                                   
+                          o o | o o o o o o o o                                 
+                              | o o o o o o o o                                 
+                              | o o o o o o o o                                 
+                                o o o o o o o o o                               
+              o o               o o o o o o o o o                               
+              o o o             o o o o o o o o o                               
+              o o o             o o o o o o o o o                               
+                o o             o o o o o o o o o                               
+                                o o o o o o o o o                               
+                                o o o o o o o o o                               
+                              | o o o o o o o o                                 
+
+Area Coverage =  0.056
+Length of step available =  48 mm
+Optimal x =  85
+Z height at 65                                                            
+                                                                                
+            o o o                                                               
+        o o o o o o o o o o                                                     
+        o o o o o o o o o o o |                                                 
+          o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+          o o o o o o o o o o | o o o o o                                       
+          o o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o o                                   
+                  o o o o o o X o o o o o o o                                   
+                      o o o o | o o o o o o o o                                 
+                          o o | o o o o o o o o                                 
+                          o o | o o o o o o o o                                 
+              o o           o | o o o o o o o o                                 
+              o o o         o | o o o o o o o o                                 
+              o o o o         | o o o o o o o o o                               
+              o o o o         | o o o o o o o o o                               
+                o o o         | o o o o o o o o o                               
+                  o         o | o o o o o o o o                                 
+                            o | o o o o o o o o                                 
+                          o o | o o o o o o o o                                 
+
+Area Coverage =  0.0615555555556
+Length of step available =  76 mm
+Optimal x =  54
+Z height at 70                                                         
+                                                                                
+        o o o o o o o o o                                                       
+        o o o o o o o o o o o                                                   
+          o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+          o o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o X o o o o o o o                                   
+            o o o o o o o o o | o o o o o o o                                   
+            o o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+                o o o o o o o | o o o o o o o o                                 
+                  o o o o o o | o o o o o o o o                                 
+                  o o o o o o | o o o o o o o o                                 
+                    o o o o o | o o o o o o o o                                 
+
+Area Coverage =  0.0706666666667
+Length of step available =  72 mm
+Optimal x =  48
+Z height at 75                                                 
+                                                                                
+        o o o o o o o o                                                         
+        o o o o o o o o o o                                                     
+          o o o o o o o o o o |                                                 
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+          o o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o X o o o o o o                                     
+            o o o o o o o o o | o o o o o o o                                   
+            o o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+                o o o o o o o | o o o o o o o o                                 
+                  o o o o o o | o o o o o o o o                                 
+                  o o o o o o | o o o o o o o o                                 
+                    o o o o o | o o o o o o o o                                 
+
+Area Coverage =  0.0693333333333
+Length of step available =  72 mm
+Optimal x =  48
+Z height at 80                                                
+                                                                                
+            o o o                                                               
+        o o o o o o o o o                                                       
+          o o o o o o o o o o                                                   
+          o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+            o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o X o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o o                                 
+              o o o o o o o o | o o o o o o o o                                 
+                o o o o o o o | o o o o o o o o                                 
+                  o o o o o o | o o o o o o o                                   
+                  o o o o o o | o o o o o o o                                   
+                    o o o o o | o o o o o o o                                   
+
+Area Coverage =  0.0651111111111
+Length of step available =  68 mm
+Optimal x =  43
+Z height at 85                                                 
+                                                                                
+        o o o o o o o o                                                         
+          o o o o o o o o o o                                                   
+          o o o o o o o o o o |                                                 
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+          o o o o o o o o o o | o o o o                                         
+            o o o o o o o o o | o o o o                                         
+            o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o X o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+                o o o o o o o | o o o o o o o                                   
+                  o o o o o o | o o o o o o o                                   
+                  o o o o o o | o o o o o o o                                   
+                    o o o o o | o o o o o o o                                   
+
+Area Coverage =  0.0628888888889
+Length of step available =  68 mm
+Optimal x =  43
+Z height at 90                                                     
+                                                                                
+        o o o o o o o                                                           
+          o o o o o o o o o                                                     
+          o o o o o o o o o o |                                                 
+          o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+          o o o o o o o o o o | o o o                                           
+            o o o o o o o o o | o o o o                                         
+            o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o X o o o o o                                       
+            o o o o o o o o o | o o o o o o                                     
+            o o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+              o o o o o o o o | o o o o o o o                                   
+                o o o o o o o | o o o o o o o                                   
+                  o o o o o o | o o o o o o o                                   
+                  o o o o o o | o o o o o o o                                   
+                    o o o o o | o o o o o o                                     
+
+Area Coverage =  0.0611111111111
+Length of step available =  68 mm
+Optimal x =  43
+Z height at 95                                                            
+                                                                                
+          o o o o o o o                                                         
+          o o o o o o o o o o                                                   
+          o o o o o o o o o o |                                                 
+          o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+            o o o o o o o o o | o o o                                           
+            o o o o o o o o o | o o o o                                         
+            o o o o o o o o o X o o o o o                                       
+            o o o o o o o o o | o o o o o                                       
+            o o o o o o o o o | o o o o o                                       
+              o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o                                     
+                o o o o o o o | o o o o o o                                     
+                  o o o o o o | o o o o o o                                     
+                  o o o o o o | o o o o o o                                     
+                    o o o o o | o o o o o o                                     
+
+Area Coverage =  0.0557777777778
+Length of step available =  64 mm
+Optimal x =  38
+Z height at 100
+                                                                
+          o o o o o                                                             
+          o o o o o o o o                                                       
+          o o o o o o o o o o                                                   
+          o o o o o o o o o o | o                                               
+          o o o o o o o o o o | o o                                             
+            o o o o o o o o o | o o o                                           
+            o o o o o o o o o | o o o                                           
+            o o o o o o o o o X o o o o                                         
+            o o o o o o o o o | o o o o                                         
+            o o o o o o o o o | o o o o o                                       
+              o o o o o o o o | o o o o o                                       
+              o o o o o o o o | o o o o o                                       
+              o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o                                     
+              o o o o o o o o | o o o o o o                                     
+                o o o o o o o | o o o o o o                                     
+                  o o o o o o | o o o o o o                                     
+                  o o o o o o | o o o o o                                       
+                    o o o o o | o o o o o                                       
+
+Area Coverage =  0.0531111111111
+Length of step available =  60 mm
+Optimal x =  32
+Best height =  70
