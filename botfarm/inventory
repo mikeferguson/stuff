@@ -1,0 +1,5 @@
+[botfarm]
+toolbox ansible_host=10.10.0.10
+
+[databases]
+toolbox ansible_host=10.10.0.10
