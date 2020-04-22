@@ -11,11 +11,11 @@
 
 ## Cheat Sheet
 
- * ros2 run <pkg> <node>
+ * ros2 run \<pkg\> \<node\>
  * ros2 node list
  * ros2 topic list -t
  * ros2 param list
- * colcon bbuild --cmake-clean-cache
+ * colcon build --cmake-clean-cache
 
 ## Enhancements/Changes from ROS1
 
