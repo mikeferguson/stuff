@@ -1,0 +1,38 @@
+---
+# Setup EE tools
+- name: Install pulseview for logic analyzer
+  become: yes
+  apt:
+    pkg:
+      - pulseview
+      - sigrok
+# ARM compiler
+- name: Install prereqs for ARM compiler
+  become: yes
+  apt:
+    pkg:
+      - gcc-multilib
+      - libncurses5:i386
+- name: Create local bin directory
+  file:
+    path: /home/{{ username }}/bin
+    state: directory
+- name: Download ARM compiler
+  get_url:
+    url: https://launchpad.net/gcc-arm-embedded/4.7/4.7-2014-q2-update/+download/gcc-arm-none-eabi-4_7-2014q2-20140408-linux.tar.bz2
+    dest: /home/{{ username }}/bin/gcc-arm-none-eabi-4_7-2014q2-20140408-linux.tar.bz2
+- name: Install ARM compiler
+  command: tar xvfj gcc-arm-none-eabi-4_7-2014q2-20140408-linux.tar.bz2
+  args:
+    chdir: /home/{{ username }}/bin
+    creates: /home/{{ username }}/bin/gcc-arm-none-eabi-4_7-2014q2
+- name: Add ARM compiler to PATH
+  lineinfile:
+    path: /home/{{ username }}/.bashrc
+    line: 'export PATH=$PATH:~/bin/gcc-arm-none-eabi-4_7-2014q2/bin:$PATH'
+# Install openocd
+- name: Install OpenOCD
+  become: yes
+  apt:
+    pkg:
+      - openocd

@@ -6,10 +6,16 @@
 ansible -i inventory all -m ping
 ```
 
-## Deploying
+## Deploying The Farm
 
 ```
 ansible-playbook botfarm.yml -i inventory --ask-become-pass
+```
+
+## Deploying Local Desktop
+
+```
+ansible-playbook desktop.yml --ask-become-pass
 ```
 
 ## Setting up a new host

@@ -1,0 +1,20 @@
+---
+# Install ROS1 Packages
+- name: Configure apt key for ROS
+  become: yes
+  apt_key:
+    keyserver: keyserver.ubuntu.com
+    id: C1CF6E31E6BADE8868B172B4F42ED6FBAB17C654
+- name: Configure apt sources for ROS
+  become: yes
+  apt_repository:
+    repo: 'deb http://packages.ros.org/ros/ubuntu {{ ansible_lsb.codename }} main'
+    filename: 'ros-latest'
+    update_cache: yes
+- name: Install commonly used ros packages
+  become: yes
+  apt:
+    pkg:
+      - ros-{{rosdistro}}-desktop-full
+      - ros-{{rosdistro}}-robot-calibration
+      - ros-{{rosdistro}}-robot-localization

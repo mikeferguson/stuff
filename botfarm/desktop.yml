@@ -1,0 +1,17 @@
+---
+# Configuration to deploy just the local (Linux) desktop
+- hosts: localhost
+
+  pre_tasks:
+    - name: Update the apt cache
+      become: true
+      apt:
+        cache_valid_time: 3600
+
+  roles:
+    - install_eetools
+    - install_ros
+
+  vars:
+    rosdistro: melodic
+    username: fergs
