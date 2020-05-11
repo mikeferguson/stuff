@@ -8,6 +8,7 @@
  * [Parameters](http://design.ros2.org/articles/ros_parameters.html)
  * [Logging](https://index.ros.org/doc/ros2/Concepts/Logging/)
  * [Launch](http://design.ros2.org/articles/roslaunch.html)
+ * [rclpy](http://docs.ros2.org/latest/api/rclpy/index.html)
 
 ## Cheat Sheet
 
@@ -37,6 +38,7 @@
      is implemented natively in the client library language).
  * Messages support default values (a third element in the IDL)
  * No parameter server - all parameters are node-local
+   * This also means there is no tilde for local parameters - [all parameters are local](https://answers.ros.org/question/317929/retrieving-parameters-from-nodes-rclpy/).
 
 ## Tutorials
 
@@ -48,6 +50,12 @@
  * Connections will only be made when QoS is compatible [QoS Tutorial](https://index.ros.org/doc/ros2/Tutorials/Quality-of-Service/)
  * [Tuning FastRTPS (roscon 2017)](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Fine%20Tuning.pdf)
  * [Apex.AI Performance Testing](https://gitlab.com/ApexAI/performance_test/)
+ * Uninstalling python3-colcon-output will cause all build/test output to go to screen
+
+## Examples
+
+ * [rclpy parameters example](https://answers.ros.org/question/348149/confision-about-ros2-rclpy-parameter/)
+ * [porting a simple python node](https://github.com/mikeferguson/etherbotix_python/commit/3e7693584959f085393b2d0994ef76cffafcc916)
 
 ## Productivity
 
