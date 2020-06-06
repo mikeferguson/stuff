@@ -50,6 +50,7 @@
  * Connections will only be made when QoS is compatible [QoS Tutorial](https://index.ros.org/doc/ros2/Tutorials/Quality-of-Service/)
  * [Tuning FastRTPS (roscon 2017)](https://roscon.ros.org/2017/presentations/ROSCon%202017%20ROS2%20Fine%20Tuning.pdf)
  * [Apex.AI Performance Testing](https://gitlab.com/ApexAI/performance_test/)
+ * [You should always declare parameters, but here's a workaround](https://answers.ros.org/question/325960/do-i-always-have-to-declare-parameters/)
  * Uninstalling python3-colcon-output will cause all build/test output to go to screen
 
 ## Examples
@@ -60,3 +61,19 @@
 ## Productivity
 
  * [Live Sync Daemon](https://blog.roverrobotics.com/ros-2-dev-tip-sync-your-code-with-lsyncd/)
+
+## Other notes
+
+ * Missing this:
+   ```
+   <export>
+    <build_type>ament_cmake</build_type>
+   </export>
+   ```
+   results in this:
+   ```
+   CMake Error at /usr/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake:146 (message):
+     Could NOT find FastRTPS (missing: FastRTPS_INCLUDE_DIR FastRTPS_LIBRARIES)
+
+   ```
+  * Mixing CPP/Python has issues [answers.ros.org](https://discourse.ros.org/t/mixed-python-cpp-ament-package/1452/9)
