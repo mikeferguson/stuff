@@ -52,6 +52,8 @@
  * [Apex.AI Performance Testing](https://gitlab.com/ApexAI/performance_test/)
  * [You should always declare parameters, but here's a workaround](https://answers.ros.org/question/325960/do-i-always-have-to-declare-parameters/)
  * [Porting asyncspinners](https://github.com/ros2/rclcpp/issues/335)
+ * [Building with debug symbols in colcon](https://answers.ros.org/question/320252/ros2-colcon-debug-symbols-for-use-with-ddd/)
+ * [ROS2 launch prefix](https://answers.ros.org/question/343326/ros2-prefix-in-launch-file/)
  * Uninstalling python3-colcon-output will cause all build/test output to go to screen
 
 ## Examples
