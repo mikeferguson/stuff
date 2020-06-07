@@ -57,6 +57,9 @@
 
  * [rclpy parameters example](https://answers.ros.org/question/348149/confision-about-ros2-rclpy-parameter/)
  * [porting a simple python node](https://github.com/mikeferguson/etherbotix_python/commit/3e7693584959f085393b2d0994ef76cffafcc916)
+ * [ZED driver](https://www.stereolabs.com/docs/ros2/lifecycle/)
+   * has a nice launch.py example, including setting the log format.
+ * [ROS2 Demos Repo](https://github.com/ros2/demos)
 
 ## Productivity
 
