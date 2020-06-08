@@ -64,6 +64,10 @@
    * has a nice launch.py example, including setting the log format.
  * [ROS2 Demos Repo](https://github.com/ros2/demos)
 
+## rclcpp
+
+ * 
+
 ## Productivity
 
  * [Live Sync Daemon](https://blog.roverrobotics.com/ros-2-dev-tip-sync-your-code-with-lsyncd/)
@@ -83,3 +87,5 @@
 
    ```
   * Mixing CPP/Python has issues [answers.ros.org](https://discourse.ros.org/t/mixed-python-cpp-ament-package/1452/9)
+  * [Migration Question](https://answers.ros.org/question/354216/switching-to-ros2-foxy-or-staying-on-ros1-hurdles-caveats/)
+
