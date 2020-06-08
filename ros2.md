@@ -4,11 +4,12 @@
 
  * [Overview](https://index.ros.org/doc/ros2/)
  * [Design Documents](http://design.ros2.org)
- * [Roadmap](https://github.com/ros2/ros2/wiki/Roadmap)
- * [Parameters](http://design.ros2.org/articles/ros_parameters.html)
- * [Logging](https://index.ros.org/doc/ros2/Concepts/Logging/)
- * [Launch](http://design.ros2.org/articles/roslaunch.html)
- * [rclpy](http://docs.ros2.org/latest/api/rclpy/index.html)
+   * [Parameters](http://design.ros2.org/articles/ros_parameters.html)
+   * [Logging](https://index.ros.org/doc/ros2/Concepts/Logging/)
+   * [Launch](http://design.ros2.org/articles/roslaunch.html)
+ * API
+   * [rclcpp](http://docs.ros2.org/foxy/api/rclcpp/index.html)
+   * [rclpy](http://docs.ros2.org/latest/api/rclpy/index.html)
 
 ## Cheat Sheet
 
