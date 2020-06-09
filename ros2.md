@@ -18,6 +18,8 @@
  * ros2 topic list -t
  * ros2 param list
  * colcon build --cmake-clean-cache
+ * colcon <verb> --packages-select pkg_name (verbs include build/test)
+ * colcon <verb> --event-handlers console_direct+ (to get everything to screen)
 
 ## Enhancements/Changes from ROS1
 
@@ -55,7 +57,6 @@
  * [Porting asyncspinners](https://github.com/ros2/rclcpp/issues/335)
  * [Building with debug symbols in colcon](https://answers.ros.org/question/320252/ros2-colcon-debug-symbols-for-use-with-ddd/)
  * [ROS2 launch prefix](https://answers.ros.org/question/343326/ros2-prefix-in-launch-file/)
- * Uninstalling python3-colcon-output will cause all build/test output to go to screen
 
 ## Examples
 
