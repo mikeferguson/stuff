@@ -10,6 +10,7 @@
  * API
    * [rclcpp](http://docs.ros2.org/foxy/api/rclcpp/index.html)
    * [rclpy](http://docs.ros2.org/latest/api/rclpy/index.html)
+ * [About QoS](https://index.ros.org/doc/ros2/Concepts/About-Quality-of-Service-Settings/)
 
 ## Cheat Sheet
 
@@ -69,7 +70,7 @@
 
 ## rclcpp
 
- * 
+ * [components](https://index.ros.org/doc/ros2/Tutorials/Composition/)
 
 ## Productivity
 
@@ -99,4 +100,5 @@
 
 ## Possible things to work on
 
+ * [Migrate DepthCloudDisplay](https://github.com/ros2/rviz/issues/92)
  * [Add color selection to costmap view](https://github.com/ros2/rviz/issues/460)
