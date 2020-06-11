@@ -16,6 +16,7 @@
  * ros2 run \<pkg\> \<node\>
  * ros2 node list
  * ros2 topic list -t
+ * ros2 topic info \<topic\> --verbose (to get QoS)
  * ros2 param list
  * colcon build --cmake-clean-cache
  * colcon <verb> --packages-select pkg_name (verbs include build/test)
@@ -91,3 +92,11 @@
   * Mixing CPP/Python has issues [answers.ros.org](https://discourse.ros.org/t/mixed-python-cpp-ament-package/1452/9)
   * [Migration Question](https://answers.ros.org/question/354216/switching-to-ros2-foxy-or-staying-on-ros1-hurdles-caveats/)
 
+## Bugs
+
+ * [TF delays in RVIZ](https://github.com/ros2/rviz/issues/359)
+ * Loading meshes in RVIZ takes way longer than in ROS1 (no issue yet)
+
+## Possible things to work on
+
+ * [Add color selection to costmap view](https://github.com/ros2/rviz/issues/460)
