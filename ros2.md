@@ -93,8 +93,9 @@
   * Mixing CPP/Python has issues [answers.ros.org](https://discourse.ros.org/t/mixed-python-cpp-ament-package/1452/9)
   * [Migration Question](https://answers.ros.org/question/354216/switching-to-ros2-foxy-or-staying-on-ros1-hurdles-caveats/)
 
-## Bugs
+## Bugs / Deficiencies
 
+ * [No subscriber connect/disconnect callbacks](https://answers.ros.org/question/286069/implementing-subscriberstatuscallback-within-ros2/)
  * [TF delays in RVIZ](https://github.com/ros2/rviz/issues/359)
  * Loading meshes in RVIZ takes way longer than in ROS1 (no issue yet)
 
