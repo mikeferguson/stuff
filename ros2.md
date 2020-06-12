@@ -98,10 +98,9 @@
  * [No subscriber connect/disconnect callbacks](https://answers.ros.org/question/286069/implementing-subscriberstatuscallback-within-ros2/)
  * [TF delays in RVIZ](https://github.com/ros2/rviz/issues/359)
  * Loading meshes in RVIZ takes way longer than in ROS1 (no issue yet)
-
-## Possible things to work on
-
- * [Migrate DepthCloudDisplay](https://github.com/ros2/rviz/issues/92)
- * [Add color selection to costmap view](https://github.com/ros2/rviz/issues/460)
- * Make RVIZ automagically determine QoS of incoming topic. References:
+ * [RVIZ lacks DepthCloudDisplay](https://github.com/ros2/rviz/issues/92)
+ * RVIZ should automagically determine QoS of incoming topic. References:
    * [Adaptive QoS for rosbag2](https://github.com/ros2/rosbag2/pull/343/files)
+  
+## Future Features
+ * [Add color selection to costmap view](https://github.com/ros2/rviz/issues/460)
