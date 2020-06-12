@@ -102,3 +102,5 @@
 
  * [Migrate DepthCloudDisplay](https://github.com/ros2/rviz/issues/92)
  * [Add color selection to costmap view](https://github.com/ros2/rviz/issues/460)
+ * Make RVIZ automagically determine QoS of incoming topic. References:
+   * [Adaptive QoS for rosbag2](https://github.com/ros2/rosbag2/pull/343/files)
