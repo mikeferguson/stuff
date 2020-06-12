@@ -59,6 +59,7 @@
  * [Porting asyncspinners](https://github.com/ros2/rclcpp/issues/335)
  * [Building with debug symbols in colcon](https://answers.ros.org/question/320252/ros2-colcon-debug-symbols-for-use-with-ddd/)
  * [ROS2 launch prefix](https://answers.ros.org/question/343326/ros2-prefix-in-launch-file/)
+ * [Discussion on rclcpp::Time vs std::chrono](https://discourse.ros.org/t/ros-2-time-vs-std-chrono/6293/8)
 
 ## Examples
 
