@@ -7,26 +7,11 @@
    * [Parameters](http://design.ros2.org/articles/ros_parameters.html)
    * [Logging](https://index.ros.org/doc/ros2/Concepts/Logging/)
    * [Launch](http://design.ros2.org/articles/roslaunch.html)
- * API
-   * [rclcpp](http://docs.ros2.org/foxy/api/rclcpp/index.html)
-   * [rclpy](http://docs.ros2.org/latest/api/rclpy/index.html)
  * [About QoS](https://index.ros.org/doc/ros2/Concepts/About-Quality-of-Service-Settings/)
-
-## Cheat Sheet
-
- * ros2 run \<pkg\> \<node\>
- * ros2 node list
- * ros2 topic list -t
- * ros2 topic info \<topic\> --verbose (to get QoS)
- * ros2 param list
- * colcon build --cmake-clean-cache
- * colcon <verb> --packages-select pkg_name (verbs include build/test)
- * colcon <verb> --event-handlers console_direct+ (to get everything to screen)
 
 ## Enhancements/Changes from ROS1
 
  * No ROS master.
-   * ROS_DOMAIN_ID environment variable
    * Initial annoucement when node starts up
    * Periodic announcement after that
    * Nodes announce when they go offline
@@ -59,7 +44,6 @@
  * [Porting asyncspinners](https://github.com/ros2/rclcpp/issues/335)
  * [Building with debug symbols in colcon](https://answers.ros.org/question/320252/ros2-colcon-debug-symbols-for-use-with-ddd/)
  * [ROS2 launch prefix](https://answers.ros.org/question/343326/ros2-prefix-in-launch-file/)
- * [Discussion on rclcpp::Time vs std::chrono](https://discourse.ros.org/t/ros-2-time-vs-std-chrono/6293/8)
 
 ## Examples
 
@@ -72,10 +56,6 @@
 ## rclcpp
 
  * [components](https://index.ros.org/doc/ros2/Tutorials/Composition/)
-
-## Productivity
-
- * [Live Sync Daemon](https://blog.roverrobotics.com/ros-2-dev-tip-sync-your-code-with-lsyncd/)
 
 ## Other notes
 
