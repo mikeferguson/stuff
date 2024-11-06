@@ -7,6 +7,7 @@ import time
 # Notes:
 #  Must send full velocity + torque FF or we get crazy torque value + error
 #  Cannot enable/disable watchdog through CAN?
+#  Have to do encoder offset calibration on every startup...
 
 HEARTBEAT = 0x001
 SET_AXIS_STATE = 0x007
@@ -73,7 +74,7 @@ if __name__ == '__main__':
 
     try:
         while True:
-            d.set_velocity(-1.0, 1.0)
+            d.set_velocity(1.0, 1.0)
             d.update_velocity()
 
             while True:
