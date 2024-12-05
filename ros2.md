@@ -49,8 +49,6 @@
 
  * [rclpy parameters example](https://answers.ros.org/question/348149/confision-about-ros2-rclpy-parameter/)
  * [porting a simple python node](https://github.com/mikeferguson/etherbotix_python/commit/3e7693584959f085393b2d0994ef76cffafcc916)
- * [ZED driver](https://www.stereolabs.com/docs/ros2/lifecycle/)
-   * has a nice launch.py example, including setting the log format.
  * [ROS2 Demos Repo](https://github.com/ros2/demos)
 
 ## rclcpp
@@ -76,10 +74,8 @@
 
 ## Bugs / Deficiencies
 
- * [No subscriber connect/disconnect callbacks](https://answers.ros.org/question/286069/implementing-subscriberstatuscallback-within-ros2/)
  * [TF delays in RVIZ](https://github.com/ros2/rviz/issues/359)
  * Loading meshes in RVIZ takes way longer than in ROS1 (no issue yet)
- * [RVIZ lacks DepthCloudDisplay](https://github.com/ros2/rviz/issues/92)
  * RVIZ should automagically determine QoS of incoming topic. References:
    * [Adaptive QoS for rosbag2](https://github.com/ros2/rosbag2/pull/343/files)
   
