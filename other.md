@@ -1,3 +1,7 @@
+## Fixing STM Cube output
+
+        dos2unix $(find . -type f)
+
 ## Debugging Wireless
 
 Graphical tool to view connection:
